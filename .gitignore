@@ -1,0 +1,11 @@
+target/
+project/target/
+*.class
+*.log
+.metals/
+.bloop/
+.bsp/
+.idea/
+.vscode/
+metals.sbt
+build.sbt.save
